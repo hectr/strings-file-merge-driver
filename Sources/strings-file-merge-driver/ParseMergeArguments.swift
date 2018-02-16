@@ -19,7 +19,7 @@
 // THE SOFTWARE.
 
 import Foundation
-import strings_file_lib
+import StringsFileLib
 
 private enum MergeArguments: Int {
     case ancestor

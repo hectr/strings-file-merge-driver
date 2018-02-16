@@ -19,7 +19,7 @@
 // THE SOFTWARE.
 
 import Foundation
-import strings_file_lib
+import StringsFileLib
 
 public func displayInfo() {
     printToStdErr("To use this merge driver, add a section to your $GIT_DIR/config file (or $HOME/.gitconfig file) like this:")

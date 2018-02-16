@@ -19,7 +19,7 @@
 // THE SOFTWARE.
 
 import Foundation
-import strings_file_lib
+import StringsFileLib
 
 public func parseMergeInfo(_ argumentList: ArgumentList) throws -> MergeInfo {
     return try parse(merge: argumentList.merge)

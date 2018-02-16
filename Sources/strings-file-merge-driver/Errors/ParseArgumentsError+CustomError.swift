@@ -19,7 +19,7 @@
 // THE SOFTWARE.
 
 import Foundation
-import strings_file_lib
+import StringsFileLib
 
 extension ParseArgumentsError: CustomError {
     public var code: ErrorCode {

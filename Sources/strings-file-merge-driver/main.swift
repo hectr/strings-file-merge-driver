@@ -19,7 +19,7 @@
 // THE SOFTWARE.
 
 import Foundation
-import strings_file_lib
+import StringsFileLib
 
 private let nonZero: Int32 = 1
 

@@ -19,7 +19,7 @@
 // THE SOFTWARE.
 
 import Foundation
-import strings_file_lib
+import StringsFileLib
 
 public func displayUsage() {
     let commandName = "strings-file-merge-driver"

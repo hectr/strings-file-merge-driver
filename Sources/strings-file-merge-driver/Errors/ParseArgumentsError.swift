@@ -19,7 +19,7 @@
 // THE SOFTWARE.
 
 import Foundation
-import strings_file_lib
+import StringsFileLib
 
 public enum ParseArgumentsError: Error {
     public enum WrongArgumentCountErrorCode: Int {

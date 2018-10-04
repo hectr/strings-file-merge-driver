@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "StringsFileLib",
+        "repositoryURL": "https://github.com/hectr/strings-file-lib",
+        "state": {
+          "branch": null,
+          "revision": "583bb09678f74fec16b7e44852eb74f89929ecd6",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "Idioms",
+        "repositoryURL": "https://github.com/hectr/swift-idioms.git",
+        "state": {
+          "branch": null,
+          "revision": "e2430e1f5385ed2b05c7b1b492f1c3282fba5a00",
+          "version": "0.1.2"
+        }
+      },
+      {
+        "package": "RegexMatcher",
+        "repositoryURL": "https://github.com/hectr/swift-regex.git",
+        "state": {
+          "branch": null,
+          "revision": "b152f9fd7053a735e1d5af3b4b24e47edfd20d70",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "StreamReader",
+        "repositoryURL": "https://github.com/hectr/swift-stream-reader.git",
+        "state": {
+          "branch": null,
+          "revision": "357ccad59d5fddb365c47febdeb2656fc102073d",
+          "version": "0.2.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -10,6 +10,10 @@ To install the latest version of `strings-file-merge-driver` simply run this com
 $ mint install hectr/strings-file-merge-driver
 ```
 
+### Using [CocoaPods](https://cocoapods.org)
+
+Add `pod 'strings-file-merge-driver'` to your `Podfile` and run `pod update strings-file-merge-driver`. This will download the latest release binary and will allow you to invoke it via `$PODS_ROOT/strings-file-merge-driver/bin/strings-file-merge-driver` in your Script Build Phases.
+
 ## Usage
 
 ```

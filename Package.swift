@@ -1,5 +1,4 @@
-// swift-tools-version:4.2
-// The swift-tools-version declares the minimum version of Swift required to build this package.
+// swift-tools-version:5.1
 
 import PackageDescription
 
@@ -9,7 +8,7 @@ let package = Package(
         .executable(name: "strings-file-merge-driver", targets: ["strings-file-merge-driver"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/hectr/strings-file-lib", from: "0.1.0"),
+        .package(url: "https://github.com/hectr/strings-file-lib", from: "0.2.0"),
     ],
     targets: [
         .target(
